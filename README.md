@@ -1,5 +1,8 @@
 ### Consolidando Arquivos .xlsx via Python
 
+
+[Vídeo Apresentação](https://youtu.be/0kxkbB9noUg)
+
 ***Objetivo:*** 
 
 Projeto desenvolvido para consolidar diversos arquivos em um diretório, com o mesmo tipo de extensão e mesmo formato de tabela. Com o objetivo de eliminar trabalhos manuais e/ou diminuir a carga em softwares de B.I., extraindo de um diretório, tratando e carregando em um banco de dados, neste caso, no *MS Access*.
