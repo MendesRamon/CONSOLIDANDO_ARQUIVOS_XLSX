@@ -1,7 +1,7 @@
 ### Consolidando Arquivos .xlsx via Python
 
 
-[Vídeo Apresentação]([https://youtu.be/0kxkbB9noUg](https://youtu.be/4lVRmnfhKVk))
+[Vídeo Apresentação](https://youtu.be/4lVRmnfhKVk)
 
 ***Objetivo:*** 
 
