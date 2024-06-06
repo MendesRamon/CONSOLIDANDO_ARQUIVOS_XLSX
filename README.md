@@ -7,7 +7,7 @@
 
 Projeto desenvolvido para consolidar diversos arquivos em um diretório, com o mesmo tipo de extensão e mesmo formato de tabela. Com o objetivo de eliminar trabalhos manuais e/ou diminuir a carga em softwares de B.I., extraindo de um diretório, tratando e carregando em um banco de dados, neste caso, no *MS Access*.
 
-***Como utlizar*** 
+***Como utilizar*** 
 
  Usando a mesma base, abrindo o *script* em um IDE, alterando os diretórios. O conceito é, da tabbela existente, limpa a tabela e insere novos dados consolidados com os arquivos antigos, sendo facilmente possível mudar este conceito, como: ao rodar o *script*, limpa o diretório, coloca novos arquivos a serem consolidados e incrementados no banco de dados.
 
